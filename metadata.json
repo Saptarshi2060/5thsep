@@ -1,0 +1,6 @@
+{
+  "name": "Our First Year — An Animated Love Story",
+  "description": "An interactive animated storybook celebrating our one-year anniversary from 5 September 2025 to 5 September 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
